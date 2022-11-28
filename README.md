@@ -1,3 +1,4 @@
 Hermit Falls Trail
 
-https://xzceric.github.io/Lab-Engagement-9-Content-Panels/
+https://xzceric.github.io/Lab-Engagement-10-Customizing-a-Bootstrap-Template/
+
